@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "c3ddfd54-7428-4532-b99b-5690dec48c15",
+      "name": "Ankush Bansal",
+      "email": "ankushbansal.bt19ece@pec.edu.in"
+    },
+    {
+      "id": "b3c181fd-4bc9-4918-a500-8bb4146d6910",
+      "name": "Rajkuvarjit Singh",
+      "email": "rajkuvarjitsingh.bt19ece@pec.edu.in"
+    },
+    {
+      "id": "bb89d28f-3c60-42b2-9292-067ee7133296",
+      "name": "Ankush Bansal",
+      "email": "bansalankush2000@gmail.com"
+    },
+    {
+      "id": "e191cd06-f1f9-4c47-8ea5-8f767438a8f8",
+      "name": "19105017_Ankush Bansal",
+      "email": "ankushbansal.bt19ece@pec.edu.in"
+    },
+    {
+      "id": "91d9a431-d2d8-4892-9f37-5e9ce0e657f6",
+      "name": "test",
+      "email": "test@gmail.com"
+    },
+    {
+      "id": "e035d7c2-9716-4855-9c23-3eb9ce86089c",
+      "name": "19105017",
+      "email": "qkht@gmail.com"
+    }
+  ]
+}
